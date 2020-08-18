@@ -1,4 +1,4 @@
-module github.com/terra-farm/go-xen-api-client
+module github.com/zzzuzik/go-xen-api-client
 
 go 1.14
 
